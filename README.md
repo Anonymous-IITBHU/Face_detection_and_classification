@@ -1,5 +1,5 @@
 # Face_detection_and_classification
-This repository consists of a CNN based model that is used to classify human face 
+This repository consists of a Machine Learning based model that is used to classify human face 
 
 ## About Data Collection
 In this project we try to collect real time images from user Webcam Video stream <br>
